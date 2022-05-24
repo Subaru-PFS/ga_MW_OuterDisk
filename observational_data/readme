@@ -1,1 +1,3 @@
-#
+The "mega_file.ipynb" file here creates a file of that is a subset of the stellar data presented in Green et al 2019. This file contains the data above
+and below the plane in the ell ~180 and ell ~90 directions, and is the input into the "Explore..." file. The "Explore..." file contains the code that I 
+used to get the counts information and observational data plots that we used in planning/writing the outer disk science case. 
